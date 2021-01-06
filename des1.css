@@ -8,7 +8,7 @@ body {
 	background: url('https://cdna.artstation.com/p/assets/images/images/026/179/212/large/michal-kvac-ancient-stones-small.jpg?1588098040') center center fixed;
 	background-size: 100%;
 	font-family: font-family: 'Yeon Sung', cursive;;
-	color: #000000;
+	color: #334d40;
 }
 
 
@@ -25,7 +25,7 @@ body {
 /* TOPBAR ("Welcome back, ___"), NAVBAR (Den/Crossroads/Etc.) */
 
 .topbar {
-	background: rgba(0, 0, 0, 0.6);
+	background: rgba(254, 251, 196, 0.6);
 	border: none;
 	border-top: none;
 	color: #000000;
