@@ -62,7 +62,7 @@ box-shadow: none;
 }
   
 .navbar {
-background: #8fd7fd;
+background: #62939a;
 border-bottom: 1px solid #000;
 color: #000;
 }
@@ -73,7 +73,7 @@ color: #000;
   
 .navbar-default .navbar-nav li a:hover {
 color: #000;
-background: #8fd7fd;
+background: #62939a;
 border-left: 1px solid #000;
 border-right: 1px solid #000;
 } 
@@ -97,7 +97,7 @@ box-shadow: none;
 }
   
 .progress-bar {
-background: #83c9fe;
+background: #62939a;
 }
   
 .progress {
@@ -135,7 +135,7 @@ border: 1px solid #000;
 }
  
 .breadcrumb {
-background:  #8fd7fd;
+background:  #62939a;
 font-size: 13px;
 border: 1px solid #000;
 }
@@ -164,7 +164,7 @@ border: 1px solid #000;
   
 .table, .item {
 border: 1px solid #000;
-background: #8fd7fd;
+background: #62939a;
 border-collapse: separate;
 }
  
@@ -175,13 +175,13 @@ border: 0px solid #000;
  
 div .feature, .cave-grid, div .left, .mound-grid,  .table .bottom,  .table .top, .table th, .item-header, .item-footer {
 border: 0px solid #000;
-background: #83c9fe;
+background: #4b6751;
 color: #000;
 }
  
 .cave-grid, div .left, .mound-grid {
 border: 1px solid #000;
-background: #83c9fe;
+background: #4b6751;
 color: #000;
 }
  
